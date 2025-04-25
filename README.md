@@ -1,6 +1,6 @@
 # 📊 Flutter Dashboard App
 
-**Dashboard App** is a responsive Flutter application designed to adapt across multiple platforms (mobile, tablet, web, and desktop). It handles different screen sizes effectively with custom layouts for each platform and includes key components like responsive `AppBar`, side `Drawer`, and interactive widgets. The app also utilizes flowcharts and visual elements for data representation.
+**Dashboard App** is a responsive Flutter application designed to adapt across multiple platforms (mobile, tablet, web, and desktop). It handles different screen sizes effectively with custom layouts for each platform and includes key components like responsive `AppBar`, side `Drawer`, and interactive widgets. The app also utilizes flowcharts.
 
 ---
 
